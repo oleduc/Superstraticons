@@ -29,14 +29,14 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/pypa/sampleproject',
+    url='https://github.com/oleduc/Pillow-Identicons',
 
     # Author details
-    author='The Python Packaging Authority',
-    author_email='pypa-dev@googlegroups.com',
+    author='Olivier Leduc',
+    author_email='pro@leduc.cc',
 
     # Choose your license
-    license='MIT',
+    license='None',
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
@@ -48,10 +48,10 @@ setup(
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Build Tools',
+        'Topic :: Image processing :: Identicon Generator',
 
         # Pick your license as you wish (should match "license" above)
-        'License :: OSI Approved :: MIT License',
+        'License :: None',
 
         # Specify the Python versions you support here. In particular, ensure
         # that you indicate whether you support Python 2, Python 3 or both.

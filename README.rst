@@ -7,6 +7,7 @@ Installation:
 
 
 Usage:
+
 ```python
 from Identicon import Identicon
 
