@@ -3,7 +3,11 @@ Pillow Identicons
 
 Github style identicons made easy.
 
-Installation:
+Options:
+- background : Color of the background of the identicon.
+- grid_size : Size (pixels) of one side of the grid of the identicon excluding the border.
+- cell_size : Size (pixels) of a cell inside the grid.
+- border_size : Size (pixels) of the padding around the identicon grid.
 
 
 Usage:
