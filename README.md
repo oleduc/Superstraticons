@@ -1,4 +1,4 @@
-Pillow Identicons
+Superstraticons - Pillow Identicons
 =======================
 
 Github style identicons made easy.
