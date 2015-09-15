@@ -27,7 +27,7 @@ class Identicon(object):
         Calculates and draws the identicon.
 
         First three bytes of the sha256sum are used to generate the color of the cells.
-        Subsequent bytes of the sha256sum are used to place the cells on one half of the cell.
+        Subsequent bytes of the sha256sum are used to place the cells on one half of the grid.
         Identicon is then mirrored (No swasticas whoohoo!).
 
         Parameters
