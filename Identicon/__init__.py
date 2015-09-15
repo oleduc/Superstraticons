@@ -35,7 +35,7 @@ class Identicon(object):
         sha256sum : Shasum of the substrate used to generate the identicon
         """
         # Create the PIL image
-        image = Image.new('RGB', (self.width, self.height), self.background)
+        image = Image.new('RGBA', (self.width, self.height), self.background)
         drawing = ImageDraw.Draw(image)
 
         # Compute the color from the three first bytes of the "sha256sum"
